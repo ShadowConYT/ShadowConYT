@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" width="150" height="150" src="https://media.tenor.com/1kAqOm5T9w0AAAAd/what-was-that-david-martinez.gif"  />
+<img align="center" width="150" height="150" src="https://media.tenor.com/1kAqOm5T9w0AAAAd/what-was-that-david-martinez.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="27" alt="youtube logo"  />
   <a href="https://www.instagram.com/ajay.developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
