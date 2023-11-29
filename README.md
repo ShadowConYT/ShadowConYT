@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" width="150" height="150" src="https://media.tenor.com/1kAqOm5T9w0AAAAd/what-was-that-david-martinez.gif"  />
+<img align="right" width="150" height="150" src="https://valorantfiles.com/images/sprays/22ae8535-40b6-95a3-c5b1-98a184b8909f/animation.gif"  />
 
 ###
 
