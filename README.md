@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" width="150" height="150" src="https://media.tenor.com/1kAqOm5T9w0AAAAd/what-was-that-david-martinez.gif"  />
+<img align="right" width="150" height="150" style="margin-right: 20px;" src="https://media.tenor.com/1kAqOm5T9w0AAAAd/what-was-that-david-martinez.gif"  />
 
 ###
 
